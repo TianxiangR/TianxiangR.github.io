@@ -1,0 +1,6 @@
+Question 1:
+Advantages: It's easy to use. We don't need to set up a backend server. It is secure because we don't have a database that stores sensitive data.
+Disadvantages: Since it's a static website, all contents are fixed. If we want to update the content, we have to change things locally and re-deploy the website.
+
+Question 2:
+https://tianxiangr.github.io/
